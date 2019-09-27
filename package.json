@@ -1,0 +1,11 @@
+{
+  "name": "typescript-issue-generator-inference",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yacinehmito/typescript-issue-generator-inference.git",
+  "author": "Yacine Hmito <yacine.hmito@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.6.3"
+  }
+}

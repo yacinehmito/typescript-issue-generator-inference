@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "rootDir": "src",
+    "strict": true,
+    "noImplicitReturns": true,
+    "moduleResolution": "node",
+    "target": "es2017",
+    "module": "commonjs"
+  }
+}
